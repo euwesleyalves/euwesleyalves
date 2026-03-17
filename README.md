@@ -1,6 +1,7 @@
 ## Olá, Sou Wesley Alves, estudante de engenharia de software
 
 ![Stats](./profile/stats.svg)
+![Top Languages](./profile/top-langs.svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
