@@ -8,7 +8,7 @@
 
 ## core technologies
 
-[![My Skills](https://skillicons.dev/icons?i=python,swift,php,java,azure,csharp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,swift,php,java,azure,cpp)](https://skillicons.dev)
 
 <!--
 <div style="display: inline_block"><br>
@@ -22,7 +22,7 @@
 </div>
 -->
   
-  ## Contact
+  ## contact
  
 <div> 
   <a href = "mailto:waoliveira01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
