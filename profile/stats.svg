@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #31ace9;
+            fill: #ffffff;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -51,13 +51,13 @@
     }
 
     .rank-circle-rim {
-      stroke: #31ace9;
+      stroke: #ffffff;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #31ace9;
+      stroke: #ffffff;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -108,7 +108,7 @@
             gradientTransform="rotate(45)"
             gradientUnits="userSpaceOnUse"
           >
-            <stop offset="0%" stop-color="#0d1117" />,<stop offset="50%" stop-color="#1f3b4d" />,<stop offset="100%" stop-color="#31ace9" />
+            <stop offset="0%" stop-color="#1a2a3a" />,<stop offset="50%" stop-color="#31ace9" />,<stop offset="100%" stop-color="#5fd0ff" />
           </linearGradient>
         </defs>
         
@@ -122,7 +122,7 @@
           stroke="#e4e2e2"
           width="466"
           fill="url(#gradient)"
-          stroke-opacity="0"
+          stroke-opacity="1"
         />
 
         
