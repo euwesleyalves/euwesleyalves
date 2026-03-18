@@ -1,14 +1,14 @@
 ## 
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F05138&center=true&width=435&lines=software+engineering;python+developer;cloud+computing" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31ACE9&center=true&width=435&lines=software+engineering;python+developer;cloud+computing" alt="Typing SVG" /></a>
 </p>
 
 ![Stats](./profile/stats.svg)
 
 ## core technologies
 
-[![My Skills](https://skillicons.dev/icons?i=python,swift,php,java,azure,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,azure,cpp,swift,php,java)](https://skillicons.dev)
 
 <!--
 <div style="display: inline_block"><br>
