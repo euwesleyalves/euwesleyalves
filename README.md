@@ -4,11 +4,19 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31ACE9&center=true&width=435&lines=software+engineering;python+developer;cloud+computing" alt="Typing SVG" /></a>
 </p>
 
-![Stats](./profile/stats.svg)
+<img align="right" src="./profile/stats.svg" width="480"/>
 
-## core technologies
+### about me
 
-[![My Skills](https://skillicons.dev/icons?i=python,azure,cpp,swift,php,java)](https://skillicons.dev)
+software engineering student focused on:
+
+- python development  
+- cloud computing  
+- machine learning
+
+### core technologies
+
+[![My Skills](https://skillicons.dev/icons?i=python,azure,php,java,cpp,swift)](https://skillicons.dev)
 
 <!--
 <div style="display: inline_block"><br>
@@ -29,3 +37,5 @@
   <a href="https://www.linkedin.com/in/euwesleyalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+---
