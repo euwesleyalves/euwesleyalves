@@ -4,8 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=31ACE9&center=true&width=435&lines=software+engineering;python+developer;cloud+computing" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" src="./profile/stats.svg" width="480"/>
-
 ### about me
 
 software engineering student focused on:
